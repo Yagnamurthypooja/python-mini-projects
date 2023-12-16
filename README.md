@@ -36,8 +36,8 @@ Players input their guesses, attempting to uncover the hidden characters in the 
 The program provides feedback after each guess, showing correctly guessed characters and indicating incorrect guesses.
 The game ends when the player correctly guesses all the characters or runs out of turns.
 
-#project-3
-Screenshot Capture and Save Project
+# project-3
+# Screenshot Capture and Save Project
 Overview
 This Python project utilizes the pyscreenshot library to capture the screen, display the captured screenshot, and save it to a file. The program allows users to quickly capture their screen and store the screenshot for future reference.
 
